@@ -1,0 +1,26 @@
+#navbarNavAltMarkup{
+    text-align: center;
+}
+
+.navbar-nav{
+    display: inline-block;
+}
+.nav-link {
+    padding-right: 100px;
+}
+.welcome{
+    text-align: center;
+    padding-top: 200px;
+}
+.image{
+    padding-left: 40px;
+}
+
+em{
+    padding-left: 800px;
+}
+.gradient-background {
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
